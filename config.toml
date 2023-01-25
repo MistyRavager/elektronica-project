@@ -1,12 +1,13 @@
 baseURL = "https://mistyravager.github.io/elektronica-project/"
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'Elektronica'
-publishDir = "docs"
 theme = "bigspring-light"
+enableRobotsTXT = true
 
 [params]
     logo = 'assets/logo50x50.png'
     # Number of blogs to display on homepage. 
     latest_blog = 5
     custom_css = ["css/custom.css"]
-    address = "Indian Institute of Technology Hyderabad, Kandi <br> 502285"
+    address = "Indian Institute of Technology Hyderabad, Kandi <br> Pincode: 502285"
